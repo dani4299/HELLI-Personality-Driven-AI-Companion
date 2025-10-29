@@ -20,3 +20,4 @@ This not only ensures complete privacy and security for your conversations but a
 HELLI doesn't just listen to you and understand you. She grows with you, she remembers the way you like to be interacted with, she remembers what seems important to you, she can remember your conversational patterns and match your mood and tone. Each and every conversation feels like talking to someone who knows you and understands you. You dont have to start fresh every time when you talk to her, she grows with you.
 
 ## Visual Interaction
+As humans we long for visual connection. That's why HELLI is not just a text chatbot but you can visually see her as she is a 3D character with smooth and fluid animations and movement.

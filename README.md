@@ -24,3 +24,6 @@ As humans we long for visual connection. That's why HELLI is not just a text cha
 
 ## 4 Modern GUI Interface
 The overall interface of the system has been made easy to use and elegant for normal use. The system provides a clean UI combined with smooth animations and clean UX design makes HELLI not even special as an AI but also provides experience that makes you feel that it was indeed made with care and the needs of the user in mind.
+
+## 5 Expressive Voice Engine
+The overall system provides an expressive Speech engine which can process emotions, tone and mood. Unlike other offline AI companions HELLI provides a natural speech and voice which is designed to sound more human and to decrease the robotic tone as much as possible. 

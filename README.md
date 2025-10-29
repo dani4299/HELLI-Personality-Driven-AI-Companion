@@ -16,4 +16,7 @@ There’s absolutely no need to connect to the internet when interacting with HE
 
 This not only ensures complete privacy and security for your conversations but also means HELLI works anywhere, anytime, even without Wi-Fi. You’re literally carrying your own AI companion — one that’s fast, private, and truly yours.
 
+## 2 Memory Based Conversations
+HELLI doesn't just listen to you and understand you. She grows with you, she remembers the way you like to be interacted with, she remembers what seems important to you, she can remember your conversational patterns and match your mood and tone. Each and every conversation feels like talking to someone who knows you and understands you. You dont have to start fresh every time when you talk to her, she grows with you.
 
+## Visual Interaction

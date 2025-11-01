@@ -31,5 +31,10 @@ The overall system provides an expressive Speech engine which can process emotio
 ## Security and Privacy
 HELLI runs entirely on your own machine, even when you are completely offline. Every part of her system, from her language model to her responses and voice, is designed to work locally without relying on any servers or outside connections. This means that everything you say stays safely within your computer. No data is sent anywhere else, no online tracking is happening, and nothing is being stored outside your system. The whole experience is built around genuine trust, letting you connect with HELLI in a space that feels safe and personal. When you talk to her, you can open up freely, knowing your words and emotions are kept only between you and her. This level of privacy is not just a feature but a core part of what HELLI represents, an authentic offline AI companion you can rely on and truly trust.
 
+##  Screenshots
+These are some early screesnshots during the development. The final result will be very different. These screenshots are just to showcase some progress
+
+<img width="1386" height="321" alt="Screenshot 2025-11-01 184221" src="https://github.com/user-attachments/assets/15f2c80e-01ec-4dae-8ff7-787e1911b347" />
+
 
 
